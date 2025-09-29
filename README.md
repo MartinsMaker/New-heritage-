@@ -25,3 +25,6 @@ is needed.
 If showing as an ammunition pouch may be more useful carrying flowers instead of bullets, and thinking of stimulating even a small change in the way we see the world means to be arrogant, well, I am the most arrogant person on the planet.
 This is my project, and if you like it stick around.
 
+> "I tell you love, sister, it's just a kiss away" 
+
+- Mick jagger
