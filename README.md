@@ -27,4 +27,3 @@ This is my project, and if you like it stick around.
 
 > "I tell you love, sister, it's just a kiss away" - Mick jagger
 
-rgb(194,178,128)
