@@ -4,7 +4,7 @@ This repository will be used to share leather patterns of vintage military equip
 Sharing this content has three main objectives:
 
 1) Promoting the conversion of military-made pieces of equipment and garments to hopefully share 
-   the idea that something made for war can find a better and more meaningful use during peace.
+   the idea that something made for war can find a better and more meaningful use during peace, ultimately representing a protest against all forms of violence. 
 
 2) Improving the accessibility to self-made accessories and garments, fighting the rise of fast fashion
    and resources waste by also using natural/eco-friendly materials as much as possible for every project.
