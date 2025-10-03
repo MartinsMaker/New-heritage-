@@ -16,7 +16,7 @@ Sharing this content has three main objectives:
 Every build will be documented on my YouTube channel https://www.youtube.com/@martins-117, where you can find the restoration process, during which I will also share a bit of the history behind each item.
 The second part will be dedicated to the redesign, which revolves around improving and adapting the vintage design to create a separate new updated version, aiming to merge fascinating vintage style with practicality.
 
-# LET'S LEARN TOGETHER!
+### Let's learn together!
 
 This is an open-source project, and everyone is invited to use the patterns and the data shared on this repository
 I'm not a professional leather worker nor a designer, so if you have more experience to share, you are more than welcome to do so.
